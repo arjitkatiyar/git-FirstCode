@@ -1,6 +1,6 @@
 
 
-class Recursion1 {
+class Recursion {
     public static void RecusionDemo(int n){
         if (n==0){
             return;
